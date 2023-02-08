@@ -1,0 +1,16 @@
+id: I9BF30743
+default_language: fr
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:14:38.140956
+last_modified: 2023-02-08 16:14:38.141054
+source_metadata:
+  title: TYKYN
+  language: fr
+bases:
+  4E59:
+    base_file: 4E59.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
